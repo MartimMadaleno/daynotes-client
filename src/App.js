@@ -4,7 +4,7 @@ import api from './service/api'
 
 import './global.css'
 import './sidebar.css'
-import './app.css'
+import './App.css'
 import './main.css'
 
 import Notes from './Components/Notes'
